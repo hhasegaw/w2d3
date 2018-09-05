@@ -21,3 +21,10 @@
 // res.send("") --send respond to brawser
 //app.get(`/lps`)
 //res.render(`show`, read('year', req.params.year))
+
+// add new stuff 
+// for can do post and delete
+// _method means  methodPut   brawser does not know PUT in root file 
+// add method put in view file.
+// how to organize express in separate modules ie module for data
+// 
